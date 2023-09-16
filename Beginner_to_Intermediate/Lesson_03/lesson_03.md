@@ -2,8 +2,8 @@
 
 ### Recap:
 
-<small>- We've added a way to update our CryptoKitties contracts
-
+<small>
+- We've added a way to update our CryptoKitties contracts
 - We've learned to protect core functions with onlyOwner
 - We've learned about gas and gas optimization
 - We added levels and cooldowns to our zombies
