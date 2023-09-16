@@ -3,6 +3,7 @@
 ### Recap:
 
 <small>
+
 - We've added a way to update our CryptoKitties contracts
 - We've learned to protect core functions with onlyOwner
 - We've learned about gas and gas optimization
