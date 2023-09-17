@@ -1,4 +1,4 @@
-# Lesson 9: Zombie Wins and Losses
+# Chapter 9: Zombie Wins and Losses
 
 <small>
 Url: https://cryptozombies.io/en/lesson/4/chapter/9

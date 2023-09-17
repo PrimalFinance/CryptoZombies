@@ -1,4 +1,4 @@
-# Lesson 10: Zombie Victory
+# Chapter 10: Zombie Victory
 
 <small>
 Url: https://cryptozombies.io/en/lesson/4/chapter/10
