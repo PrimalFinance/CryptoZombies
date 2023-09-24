@@ -39,9 +39,6 @@
           getZombiesByOwner(userAccount).then(displayZombies);
         }).on("error", console.error);
       }
-      // Update the UI
-      getZombiesByOwner(userAccount).then(displayZombies);
-
       function displayZombies(ids) {
         $("#zombies").empty();
         for (const id of ids) {
